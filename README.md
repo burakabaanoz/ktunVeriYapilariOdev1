@@ -1,1 +1,3 @@
-Konya Teknik Üniversitesi veri yapıları ilk ödevim
+Konya Teknik Üniversitesi
+
+Veri Yapıları 1. Ödev
